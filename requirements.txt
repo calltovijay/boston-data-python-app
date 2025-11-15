@@ -1,0 +1,7 @@
+streamlit>=1.31
+pandas
+numpy
+requests
+altair
+python-dateutil
+pyarrow
